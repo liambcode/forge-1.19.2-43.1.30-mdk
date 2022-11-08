@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "debrismod:aquarite_block",
+    "debrismod:wet_ancient_debris",
+    "debrismod:malakarite_block",
+    "debrismod:enderite_block",
+    "debrismod:echorite_block",
+    "debrismod:simple_ancient_debris",
+    "debrismod:cosmic_ancient_debris",
+    "debrismod:dark_ancient_debris"
+  ]
+}

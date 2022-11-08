@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "malakarite_ingot",
+  "ingredients": [
+    {
+      "item": "debrismod:malakarite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "debrismod:malakarite_ingot"
+  }
+}

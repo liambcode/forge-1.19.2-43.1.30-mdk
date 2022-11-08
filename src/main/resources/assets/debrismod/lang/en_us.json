@@ -1,0 +1,18 @@
+{
+  "item.debrismod.malakarite_scrap": "Malakarite Scrap",
+  "item.debrismod.malakarite_ingot": "Malakarite Ingot",
+  "item.debrismod.aquarite_scrap": "Aquarite Scrap",
+  "item.debrismod.aquarite_ingot": "Aquarite Ingot",
+  "item.debrismod.echorite_scrap": "Echorite Scrap",
+  "item.debrismod.echorite_ingot": "Echorite Ingot",
+  "item.debrismod.enderite_scrap": "Enderite Scrap",
+  "item.debrismod.enderite_ingot": "Enderite Ingot",
+  "block.debrismod.malakarite_block": "Malakarite Block",
+  "block.debrismod.simple_ancient_debris": "Simple Ancient Debris",
+  "block.debrismod.aquarite_block": "Aquarite Block",
+  "block.debrismod.echorite_block": "Echorite Block",
+  "block.debrismod.enderite_block": "Enderite Block",
+  "block.debrismod.wet_ancient_debris": "Wet Ancient Debris",
+  "block.debrismod.cosmic_ancient_debris": "Cosmic Ancient Debris",
+  "block.debrismod.dark_ancient_debris": "Dark Ancient Debris"
+}

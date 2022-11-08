@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "debrismod:wet_ancient_debris"
+  },
+  "result": "debrismod:aquarite_scrap"
+}

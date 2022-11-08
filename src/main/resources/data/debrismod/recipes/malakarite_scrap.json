@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "debrismod:simple_ancient_debris"
+  },
+  "result": "debrismod:malakarite_scrap"
+}

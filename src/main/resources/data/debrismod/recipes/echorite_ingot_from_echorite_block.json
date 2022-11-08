@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "echorite_ingot",
+  "ingredients": [
+    {
+      "item": "debrismod:echorite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "debrismod:echorite_ingot"
+  }
+}

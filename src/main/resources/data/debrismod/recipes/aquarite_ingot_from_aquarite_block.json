@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aquarite_ingot",
+  "ingredients": [
+    {
+      "item": "debrismod:aquarite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "debrismod:aquarite_ingot"
+  }
+}

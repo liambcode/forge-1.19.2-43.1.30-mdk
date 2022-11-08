@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "malakarite_ingot",
+  "ingredients": [
+    {
+      "item": "debrismod:malakarite_scrap"
+    },
+    {
+      "item": "debrismod:malakarite_scrap"
+    },
+    {
+      "item": "debrismod:malakarite_scrap"
+    },
+    {
+      "item": "debrismod:malakarite_scrap"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "debrismod:malakarite_ingot"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aquarite_ingot",
+  "ingredients": [
+    {
+      "item": "debrismod:aquarite_scrap"
+    },
+    {
+      "item": "debrismod:aquarite_scrap"
+    },
+    {
+      "item": "debrismod:aquarite_scrap"
+    },
+    {
+      "item": "debrismod:aquarite_scrap"
+    },
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "debrismod:aquarite_ingot"
+  }
+}

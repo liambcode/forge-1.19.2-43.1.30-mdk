@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "debrismod:wet_ancient_debris"
+  },
+  "result": "debrismod:aquarite_scrap"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "debrismod:wet_ancient_debris"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
