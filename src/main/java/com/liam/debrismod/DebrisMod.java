@@ -31,10 +31,10 @@ public class DebrisMod
         // Register the commonSetup method for modloading
         eventBus.addListener(this::commonSetup);
 
-        // Register the Deferred Register to the mod event bus so blocks get registered
         ModBlocks.register(eventBus);
-        // Register the Deferred Register to the mod event bus so items get registered
         ModItems.register(eventBus);
+        ModConfiguredFeatures.register(eventBus);
+        ModPlacedFeatures.register(eventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
