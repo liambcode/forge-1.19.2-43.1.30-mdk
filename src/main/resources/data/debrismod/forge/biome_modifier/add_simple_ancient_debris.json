@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#mincraft:is_overworld",
+  "features": "debrismod:simple_ancient_debris_placed",
+  "step": "underground_ores"
+}
